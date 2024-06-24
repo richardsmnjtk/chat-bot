@@ -21,11 +21,7 @@ def main():
     """
     
     # Get Groq API key
-<<<<<<< HEAD
-    groq_api_key = os.environ['gf']
-=======
     groq_api_key = os.environ['']
->>>>>>> 78001b7 (add: Dockerfile)
 
     # Display the Groq logo
     spacer, col = st.columns([5, 1])  
